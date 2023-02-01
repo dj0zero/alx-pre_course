@@ -1,1 +1,1 @@
-GIT reloaded
+GIT Terminal
